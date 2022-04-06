@@ -1,0 +1,4 @@
+﻿  Simulator.cpp
+c:\users\user\desktop\irox-קורס\c++\lessone3\lessone3\simulator.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\desktop\irox-קורס\c++\lessone3\lessone3\simulator.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  lessone3.vcxproj -> C:\Users\User\Desktop\irox-קורס\c++\lessone3\Debug\lessone3.exe
